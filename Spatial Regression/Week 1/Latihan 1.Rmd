@@ -1,0 +1,12 @@
+---
+title: "Latihan 1"
+author: "Rafi Adabhi Sunarya"
+date: "2025-08-20"
+output: html_document
+---
+
+```{r}
+#install library
+install.packages(c("sp", "mapview", "spData", "ggplot2"))
+```
+
